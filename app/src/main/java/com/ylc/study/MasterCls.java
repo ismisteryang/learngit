@@ -11,4 +11,5 @@ package com.ylc.study;
  * ************************************************
  */
 public class MasterCls {
+
 }
