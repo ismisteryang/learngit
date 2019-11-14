@@ -10,8 +10,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //这是dev
         setContentView(R.layout.activity_main);
-        //新增了这些内容
     }
 }
