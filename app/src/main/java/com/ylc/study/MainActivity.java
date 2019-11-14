@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //这是dev
         setContentView(R.layout.activity_main);
+        //新增了这些内容
     }
 }
