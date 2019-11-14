@@ -14,6 +14,7 @@ public class MasterCls {
     private String name;
     private String id;
     private String key;
+    private String text;
     public String getName() {
         return name;
     }
