@@ -13,6 +13,7 @@ package com.ylc.study;
 public class MasterCls {
     private String name;
     private String id;
+    private String key;
     public String getName() {
         return name;
     }
