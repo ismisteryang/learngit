@@ -7,15 +7,12 @@ package com.ylc.study;
  * AUTHOR : yanglinchuan
  * DATA : 2019/11/14
  * TIME : 11:43
- * MSG :
+ * MSG : v1.0
  * ************************************************
  */
 public class MasterCls {
     private String name;
-    private String id;
-    private String key;
-    private String text;
-    private String dev;
+
     public String getName() {
         return name;
     }
